@@ -1,0 +1,31 @@
+{
+  "editor.lineHeight": 32,
+  "editor.cursorBlinking": "solid",
+  "editor.minimap.enabled": true,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "FireFly Pro Midnight",
+  "files.autoSave": "onFocusChange",
+  "emmet.triggerExpansionOnTab": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 120,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.validate.enable": true,
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.bellDuration": 1000
+}
